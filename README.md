@@ -39,6 +39,7 @@ The following genes exhibited the highest Euclidean distances between their DNA 
 | 2 | FGF23 | 0.2655 | Bone mineralization and phosphate homeostasis. |
 | 3 | BRAT1 | 0.2640 | DNA damage response and cell growth. |
 | 4 | COX5A | 0.2547 | Mitochondrial oxidative phosphorylation. |
+| 5 | APOH | 0.2246 |Lipid metabolism and coagulation signaling. |
 | 5 | LRP5 | 0.2003 | Wnt-mediated bone mass regulation. |
 
 ## Repository Structure
