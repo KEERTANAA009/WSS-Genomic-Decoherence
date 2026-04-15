@@ -2,7 +2,7 @@ Rank,Gene_Symbol,Decoherence_Score,Biological_Function,WSS_Clinical_Relevance
 1,WNT3,0.268827,Wnt signaling and embryonic morphogenesis,Essential for facial and limb development; decoherence explains dysmorphic features.
 2,FGF23,0.265578,Phosphate homeostasis and bone mineralization,Linked to skeletal anomalies and mineral metabolism issues in developmental syndromes.
 3,BRAT1,0.264076,DNA damage response and cell growth,High scores relate to the severe neurodevelopmental delay and microcephaly seen in WSS.
-4,COX5A,0.254747,Mitochondrial oxidative phosphorylation,Energy production deficit contributing to "Failure to Thrive" and hypotonia.
+4,COX5A,0.254747,Mitochondrial oxidative phosphorylation,Energy production deficit contributing to Failure to Thrive and hypotonia.
 5,APOH,0.224687,Lipid metabolism and coagulation signaling,Suggests a drift in systemic metabolic regulation and cardiovascular health.
 6,TBX4,0.222097,Lung and limb patterning transcription factor,Critical for developmental symmetry; disruption affects structural and skeletal integrity.
 7,H19,0.220140,Imprinted lncRNA growth regulator,Key architect of growth; its loss of sync drives the growth retardation characteristic of WSS.
